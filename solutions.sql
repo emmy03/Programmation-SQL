@@ -1,3 +1,4 @@
+```sql
 /* ==========================================
    Solutions aux questions du projet SQL
    Auteur : Emmy MARIE-JOSEPH
