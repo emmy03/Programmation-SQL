@@ -6,7 +6,7 @@ Les fichiers `store.sql` et `hr.sql` fournissent les structures et données de d
 - Une base de données pour un magasin (*store*).
 - Une base de données pour un service de ressources humaines (*hr*).
 
-Les solutions incluent des requêtes SQL et des réponses théoriques couvrant :
+Les solutions incluent des requêtes ```sql et des réponses théoriques couvrant :
 - Les jointures (INNER JOIN, LEFT JOIN, etc.).
 - Les manipulations de données (INSERT, UPDATE, DELETE).
 - Les calculs sur les données (agrégats, tris, groupements).
